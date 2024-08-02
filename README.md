@@ -1,5 +1,5 @@
-# 💫 About Me:
-## Hi, I'm Kamogelo 👋
+### Hi, I'm Kamogelo 👋
+
 I'm a passionate Front-End Software Developer dedicated to crafting engaging web experiences. My journey is fueled by continuous learning and refining my skills in the ever-evolving world of web development.
 
 ## 🌟 What I Do
@@ -17,11 +17,6 @@ I'm a passionate Front-End Software Developer dedicated to crafting engaging web
   
  ## 🎉 Fun Fact!
 - I love learning and engaging in fun complex CSS build challenges.
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/kamogelo-mogasoa-5021a52b1/) 
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/20754182/enoch-mogasoa) 
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/@Kamogelo-Mogasoa) 
 
 ## 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
@@ -44,7 +39,6 @@ I'm a passionate Front-End Software Developer dedicated to crafting engaging web
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Kamogelo-7&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
----
 [![](https://visitcount.itsvg.in/api?id=Kamogelo-7&icon=0&color=3)](https://visitcount.itsvg.in)
 
   ## 💰 You can help me by Donating
