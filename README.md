@@ -14,7 +14,8 @@ I'm a passionate Front-End Software Developer dedicated to crafting engaging web
 ## 🚀 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/kamogelo-mogasoa-5021a52b1/)
-- [Email](mailto:ekmogasoa@gmail.com) Contact me for bsuiness or networking reasons
+- [Fiverr](https://www.fiverr.com/ekgrafx) Work skills i do outside of software development.
+- [Email](mailto:ekmogasoa@gmail.com) Contact me for bsuiness or networking reasons.
 
 ## 🎉 Fun Fact!
 - I love learning and engaging in fun complex CSS build challenges.
