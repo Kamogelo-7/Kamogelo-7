@@ -33,7 +33,7 @@ I'm a passionate Front-End Software Developer dedicated to crafting engaging web
 
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Kamogelo-7&theme=merko&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Kamogelo-7&theme=merko&hide_border=false)
+<br>![](https://github-readme-streak-stats.herokuapp.com/?user=Kamogelo-7&theme=merko&hide_border=false) <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Kamogelo-7&theme=merko&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 [![](https://visitcount.itsvg.in/api?id=Kamogelo-7&icon=0&color=3)](https://visitcount.itsvg.in)
