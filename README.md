@@ -21,4 +21,4 @@ I'm a passionate Front-End Software Developer dedicated to crafting engaging web
 - I love learning and engaging in fun complex CSS build challenges.
 
 
-[![Kamogelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamogelo-7&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Kamogelo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kamogelo-7&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
