@@ -6,8 +6,8 @@ I'm a passionate Front-End Software Developer dedicated to crafting engaging web
 - 📊**Web Development**: Building responsive, user-friendly interfaces with the latest technologies.
 - 🧑‍🏫**Continuous Learning**: Exploring new frameworks, libraries, and tools to stay ahead.
 - 🤹‍♂️**Skill Refinement**: Always iterating and improving on my existing knowledge and projects.
-- 🌱 I’m currently learning. Javascript and Tailwind Css.
-- 📚 Future Technologies i want to learn: React.js, Typescript, Node.js Express.js. SQL & MySQL.
+- 🌱 I’m currently learning. Javascript, Node.js , Express.js and Tailwind Css.
+- 📚 Future Technologies i want to learn: React.js, Typescript, SQL & MySQL.
 - 👨🏾‍🎓 Studied [I.T](https://www.richfield.ac.za/) at Richfield College, Pretoria.
 
 ## 🚀 Let's Connect
