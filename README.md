@@ -1,6 +1,6 @@
 ### Hi, I'm Kamogelo 👋
 
-I'm a passionate Front-End Software Developer dedicated to crafting engaging web experiences. My journey is fueled by continuous learning and refining my skills in the ever-evolving world of web development.
+I'm a passionate Front-End Software Developer dedicated to crafting engaging web experiences. Fueled by continuous learning and refining my skills in the ever-evolving world of web development.
 
 ## 🌟 What I Do
 - 📊**Web Development**: Building responsive, user-friendly interfaces with the latest technologies.
