@@ -9,7 +9,7 @@ I'm a passionate Front-End Software Developer dedicated to crafting engaging web
 - 🌱 I’m currently learning. Javascript, Node.js , Express.js and Tailwind Css.
 - 📚 Future Technologies i want to learn: React.js, Typescript, SQL & MySQL.
 - 👨🏾‍🎓 Studied [I.T](https://www.richfield.ac.za/) at Richfield College, Pretoria.
-- 🏆**Qualification** [Badge](https://www.credly.com/badges/3aa16c65-282a-4216-9764-8824c0255e46) at Cisco Networking Academy
+- 🏆**Qualification** [Javascript Badge](https://www.credly.com/badges/3aa16c65-282a-4216-9764-8824c0255e46) at Cisco Networking Academy
 
 ## 🚀 Let's Connect
 - [LinkedIn](https://www.linkedin.com/in/kamogelo-mogasoa-5021a52b1/)
