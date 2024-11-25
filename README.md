@@ -34,6 +34,7 @@ I'm a passionate Front-End Software Developer dedicated to crafting engaging web
 [![Netlify Status](https://api.netlify.com/api/v1/badges/2a7272c8-fee9-4b3e-b1a9-29afc0e47145/deploy-status)](https://app.netlify.com/sites/kamogelodevportfolio/deploys)
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) 
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
 ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
 
